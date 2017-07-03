@@ -6,3 +6,4 @@
 + **maxlen_line.awk** find maximum length of line in file
 + **ls.sh** list file name in current directory
 + **files_chg.sh** find change files in list
++ **qnew.pl** create queue id then remove
